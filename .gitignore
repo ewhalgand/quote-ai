@@ -1,0 +1,12 @@
+# pnpm store/cache
+.pnpm-store/
+.pnpm-store/**
+.pnpm-debug.log*
+
+# Node / package manager
+node_modules/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
