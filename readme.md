@@ -42,7 +42,7 @@ GROQ_API_KEY=gsk_...
 Lancer :
 
 ```bash
-go run ./cmd/server
+go run ./cmd/main.go
 ```
 
 Le backend tourne sur `http://localhost:8080`.
